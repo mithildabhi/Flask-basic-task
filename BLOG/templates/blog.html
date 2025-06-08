@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Blog</title>
+    </head>
+    <body>
+        {% for blog_post in posts %}
+            {% if blog_post.id == 5 %}        
+            <h3>{{ blog_post.title }}</h3>
+            <p>{{ blog_post.subtitle }}</p>
+            {% endif %}
+        {% endfor %}
+    </body>
+</html>

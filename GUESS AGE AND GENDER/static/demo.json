@@ -1,0 +1,32 @@
+    [
+    {
+        "id": 1,
+        "title": "Introduction to JSON",
+        "subtitle": "Basics of JSON Structure",
+        "body": "JSON stands for JavaScript Object Notation and is used for data interchange."
+    },
+    {
+        "id": 2,
+        "title": "Why Use JSON?",
+        "subtitle": "Benefits of JSON",
+        "body": "JSON is lightweight, easy to read, and widely supported across programming languages."
+    },
+    {
+        "id": 3,
+        "title": "JSON Syntax",
+        "subtitle": "Understanding the Format",
+        "body": "JSON uses key-value pairs and supports arrays and nested objects."
+    },
+    {
+        "id": 4,
+        "title": "Working with JSON in Python",
+        "subtitle": "Python and JSON",
+        "body": "Python provides the json module to parse and generate JSON data."
+    },
+    {
+        "id": 5,
+        "title": "Common JSON Use Cases",
+        "subtitle": "Applications of JSON",
+        "body": "JSON is commonly used in APIs, configuration files, and data storage."
+    }
+]
